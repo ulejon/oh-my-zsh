@@ -1,1 +1,0 @@
-export SOURCES_ROOT=~/source/skf
